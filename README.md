@@ -17,7 +17,7 @@
 ## 👉 Follow me on Instagram: [@sreekanthpogula143](https://www.instagram.com/sreekanthpogula143/)
 
 <!--- Animated Gif --->
-![Coding Animation](https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.gif)
-<!-- ![Coding Animation](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif) -->
+[Coding Animation](https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.gif)
+[Coding Animation](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)
 
 

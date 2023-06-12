@@ -2,7 +2,7 @@
 # 👋 Hi, I’m Sreekanth Pogula
 
 <!--- Introduction --->
-## 👀 I’m interested in coding in Java, Python, C, and C++.
+## 👀 I’m interested in coding in Python, Java. machine learning.
 
 <!--- Learning and Collaboration --->
 ## 🌱 I’m currently working as a software Engineer 
@@ -10,7 +10,7 @@
 
 <!--- Contact Information --->
 ## 📫 Contact me:
-- Website: [www.linkedin.com/in/sreekanth-1կՅ](https://www.linkedin.com/in/sreekanth-1կՅ)
+- Website: [www.linkedin.com/in/sreekanth-1կՅ](https://www.linkedin.com/in/sreekanth-143)
 - Phone: +91-7995745089
 
 <!--- Social Media --->
@@ -18,6 +18,6 @@
 
 <!--- Animated Gif --->
 ![Coding Animation](https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.gif)
-![Coding Animation](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)
+<!-- ![Coding Animation](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif) -->
 
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sreekanthpogula" alt="sreekanthpogula" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sreekanthpogula" target="blank"><img src="https://img.shields.io/twitter/follow/sreekanthpogula?logo=twitter&style=for-the-badge" alt="sreekanthpogula" /></a> </p>
+<p align="left"> <a href="https://twitter.com/pogulasreekanth" target="blank"><img src="https://img.shields.io/twitter/follow/sreekanthpogula?logo=twitter&style=for-the-badge" alt="sreekanthpogula" /></a> </p>
 
 - 🔭 I’m currently working on [Conservue](https://github.com/sreekanthpogula/ConversaVue)
 

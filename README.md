@@ -3,22 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreekanthpogula&label=Profile%20views&color=0e75b6&style=flat" alt="sreekanthpogula" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sreekanthpogula&theme=dracula&column=8&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
+- My Motivation:
+"There are five important things for living a successful and fulfilling life: never stop dreaming, never stop believing, never give up, never stop trying, and never stop learning"
 
 <p align="left"> <a href="https://twitter.com/pogulasreekanth" target="blank"><img src="https://img.shields.io/twitter/follow/sreekanthpogula?logo=twitter&style=for-the-badge" alt="sreekanthpogula" /></a> </p>
 
-- 🔭 I’m currently working on [Conversavue](https://github.com/sreekanthpogula/ConversaVue)
+- 🔭 I’m currently working on [Stock Market Trading Bot Using AI](https://github.com/sreekanthpogula/ConversaVue)
 
-- 🌱 I’m currently learning **FastAPI,Typescript**
-
+- 🌱 I’m currently learning **LLM's, GENAI, Agentic AI, Machine Learning**
+  
 - 👯 I’m looking to collaborate on [Transformail](https://github.com/sreekanthpogula/Transformail)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sreekanthpogula/](https://github.com/sreekanthpogula/)
 
 - 📝 I regularly write articles on [https://medium.com/@sreekanthpogula2001](https://medium.com/@sreekanthpogula2001)
 
-- 💬 Ask me about **React, Vue, Python**
+- 💬 Ask me about **React, Vue, Python, Data Engineering**
 
 - 📫 How to reach me **Sreekanthpogula2001@gmail.com**
 

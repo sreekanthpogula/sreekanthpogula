@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/pogulasreekanth" target="blank"><img src="https://img.shields.io/twitter/follow/sreekanthpogula?logo=twitter&style=for-the-badge" alt="sreekanthpogula" /></a> </p>
 
-- 🔭 I’m currently working on [Stock Market Trading Bot Using AI](https://github.com/sreekanthpogula/ConversaVue)
+- 🔭 I’m currently working on [Stock Market Trading Bot Using AI](https://github.com/sreekanthpogula/PyTrader)
 
 - 🌱 I’m currently learning **LLM's, GENAI, Agentic AI, Machine Learning**
   
